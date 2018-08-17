@@ -33,6 +33,9 @@ lrthubcore/lrthubcore/staticfiles/
 .AppleDouble
 .LSOverride
 
+# IDEs
+.vscode/
+
 # Icon must end with two \r
 Icon
 
